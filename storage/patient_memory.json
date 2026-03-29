@@ -1,0 +1,104 @@
+{
+  "PATIENT_001": [
+    {
+      "symptoms": "I have a bad cough and feel feverish.",
+      "condition": "respiratory infection",
+      "recommended_specialty": "internal medicine",
+      "insurance_estimate": 2498.0
+    }
+  ],
+  "f3955359c0a9fb5c": {
+    "demographics": {
+      "name": "Chau Van Van",
+      "email": "vvchauit@gmail.com",
+      "age": 50,
+      "sex": "male",
+      "height_cm": 165,
+      "weight_kg": 70,
+      "bmi": 25.71,
+      "children": 3,
+      "smoker": "yes",
+      "region": "southeast",
+      "city": "Bangkok"
+    },
+    "history": [
+      {
+        "timestamp": "2026-03-29T11:58:29.407254Z",
+        "symptoms": "good english ",
+        "diagnosis": {
+          "symptoms": "fever + cough",
+          "condition": "respiratory infection",
+          "specialty": "internal medicine",
+          "advice": "rest + hydration"
+        },
+        "insurance_price": 5084.0,
+        "doctors": [
+          {
+            "name": "Dr. Smith",
+            "specialty": "internal medicine",
+            "city": "Bangkok",
+            "rating": 4.8
+          }
+        ]
+      }
+    ]
+  },
+  "30d98042d7012e3e": {
+    "demographics": {
+      "name": "DAVID ",
+      "email": "DAVIT@YAHOO.COM",
+      "age": 35,
+      "sex": "male",
+      "height_cm": 170,
+      "weight_kg": 70,
+      "bmi": 24.22,
+      "children": 1,
+      "smoker": "no",
+      "region": "southeast",
+      "city": "Bangkok"
+    },
+    "history": [
+      {
+        "timestamp": "2026-03-29T12:13:24.537614Z",
+        "symptoms": "hay đói bụng vào các giờ : sáng, trưa , chiều tối. ",
+        "diagnosis": {
+          "symptoms": "stomach ache + nausea after eating",
+          "condition": "food poisoning",
+          "specialty": "gastroenterology",
+          "advice": "drink clear fluids + rest"
+        },
+        "insurance_price": 3042.0,
+        "doctors": []
+      }
+    ]
+  },
+  "43e56cfa6477f501": {
+    "demographics": {
+      "name": "Pavi",
+      "email": "pavi@GMAIL.COM ",
+      "age": 35,
+      "sex": "male",
+      "height_cm": 170,
+      "weight_kg": 70,
+      "bmi": 24.22,
+      "children": 5,
+      "smoker": "yes",
+      "region": "southeast",
+      "city": "Seoul"
+    },
+    "history": [
+      {
+        "timestamp": "2026-03-29T12:25:24.258206Z",
+        "symptoms": "Usually hungry in the morning, noon, and late afternoon. ",
+        "diagnosis": {
+          "symptoms": "stomach ache + nausea after eating",
+          "condition": "food poisoning",
+          "specialty": "gastroenterology",
+          "advice": "drink clear fluids + rest"
+        },
+        "insurance_price": 4344.0,
+        "doctors": []
+      }
+    ]
+  }
+}
